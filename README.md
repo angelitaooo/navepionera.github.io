@@ -6,10 +6,12 @@ Ejercicio de construccion conjunta pagina de perfil y creacion de nave Pionera
 1. Clonar el repositorio:
   * Hacer una carpeta en el escritorio
   * Abrir la consola de Git dentro de la capeta [Click derecho + select git bash]
-  * Copiar el link de clonar a mano derecha (imagen)
-  * Pegar dentro de la consola
+  * Copiar el link de clonar a mano derecha (imagen)  
+  * Pegar dentro de la consola -> git clone https://github.com/NavePionera/navepionera.github.io
   * Modificar en Sublime text
-  * Abrir de nuevo la consola y darle Git Push
+  * Abrir de nuevo la consola y git add .
+  * git commit -m "Mi commit"
+  * darle git push
   
 
 Tarea 1. En este repositorio encontrarán un archivo llamado 'index.html', esté archivo contiene un formato muy básico de una página web.
