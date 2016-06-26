@@ -1,0 +1,60 @@
+body {
+	background-color: #E5E5E5;
+	font-family: 'Antic', sans-serif;
+}
+
+.header {
+	background-color: #4F2730;
+	color: #E5E5E5;
+}
+
+.about-me{
+	padding-top: 50px;
+}
+.about-me h2 {  
+    margin-bottom: 30px;
+}
+.about-me p{
+	font-size: 18px;
+}
+
+.about-me img {
+	border-radius: 10px;
+	height: 250px;
+    float:right;
+}
+
+.skills {
+	padding-top: 50px;
+}
+.skills h2 {
+	padding-bottom: 30px;
+}
+.skills p {
+	font-size: 17px;
+}
+.progress {
+    height: 25px;
+}
+.progress-bar {
+    background-image: linear-gradient(to bottom, #4F2730 0%, #9c4b66 100%);
+    line-height: 25px;
+}
+
+.footer {
+	padding-top: 50px;
+}
+.footer h2{
+	padding-bottom: 30px;
+}
+.footer ul {
+    list-style: none;
+    padding-left: 0;
+  }
+ .footer li {
+ 	padding-right: 50px;
+ 	display: inline-block;
+ }
+ .footer .mail {
+ 	font-size: 20px;
+ }
